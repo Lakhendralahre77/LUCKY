@@ -1,4 +1,4 @@
 # LUCKY
 First Repository
 <br>
-Author - Lakhendra Lahre
+Author - Lakhendra (MAIC)
